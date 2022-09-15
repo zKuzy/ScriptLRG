@@ -1,6 +1,6 @@
 fileData = gg.EXT_STORAGE .. "/[###].dat"
 
-if os.date("%Y%m%d") > "20220930" then
+if os.date("%Y%m%d") > "20220830" then
 hh= gg.alert("⚠ Script Update | สคริปต์อัปเดต ⚠\n\n🔥อัปเดตใหม่ที่ช่อง zKuzy LVL.1")
 os.exit()
 end
