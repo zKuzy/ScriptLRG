@@ -7,8 +7,8 @@ hh= gg.alert("⚠ Script Update | สคริปต์อัปเดต ⚠\n\
 os.exit()
 end
 
-ON = "[☑]"
-OFF = "[☒]"
+ON = "[■]"
+OFF = "[□]"
 -- ไอ้ควยสคริปต์ไม่ได้ ENC อยากได้ก็เอาไป
 function CEO()
 LVL = gg.multiChoice({
