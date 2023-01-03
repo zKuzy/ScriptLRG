@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://gitlab.com/vip-script/lrg/-/raw/main/VIP.lua"))()
+gg.makeRequest(\"https://raw.githubusercontent.com/zKuzy/ScriptLRG/main/VIP.lua\").content if V then pcall(load(V)) end
